@@ -1,3 +1,5 @@
+<img src="https://github.com/xfmn/tip41c_5V1A/blob/main/main-dc%20(2).png">
+
 0 .. 30V/0 .. 10A LABORATORY POWER SUPPLY
 A laboratory power supply offers an indispensable set for both the professional
 and the amateur.
